@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+nav ul li{
+    display: inline;
+    padding: 50px;
+}
